@@ -7,7 +7,7 @@ dependencies:
   - bokeh::bokeh
   - pyviz::holoviews
   - pyviz::geoviews
-  - pyviz::panel=0.6.2
+  - pyviz::panel
   - conda-forge::pytables
   - pip:
     - jupyter-panel-proxy
